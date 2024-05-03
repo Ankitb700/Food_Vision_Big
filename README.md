@@ -72,13 +72,13 @@ def create_effnetb2_model(num_classes:int=3,
     )
     
     return model, transforms
-
+```
     
 ## Screenshots
 
 ![App Screenshot](https://github.com/Ankitb700/Food_Vision_Big/blob/main/Images/Screenshot%20(145).png)
 
-
+```
 ## Deployment
 
 To deploy this project run
